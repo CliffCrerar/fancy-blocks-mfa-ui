@@ -6,6 +6,7 @@ import './skeleton.css'
 // import svg from 'svg-inline-loader?src/assets/noun_encryption_3627917.svg';
 
 import FancyBloks from './fancy-bloks'
+import img from './assets/crypt.png'
 
 const
     $ = document,

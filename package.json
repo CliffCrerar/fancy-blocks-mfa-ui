@@ -12,7 +12,7 @@
     "email": "Cliff@infinityarc.net",
     "url": "https://cliffcrerar.tech"
   },
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "css-loader": "^5.2.0",
     "file-loader": "^6.2.0",
