@@ -1,0 +1,28 @@
+{
+  "name": "fancy-digit-blocks",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "webpack --watch --config=webpack.config --mode=development"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Cliff Crerar",
+    "email": "Cliff@infinityarc.net",
+    "url": "https://cliffcrerar.tech"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^5.2.0",
+    "file-loader": "^6.2.0",
+    "svg-inline-loader": "^0.8.2"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "skeleton-css": "^2.0.4",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.31.0",
+    "webpack-cli": "^4.6.0"
+  }
+}
